@@ -1,0 +1,12 @@
+Kidney Cancer Detection using Deep Learning Models (Unstructure dataset) 
+
+Algorithm / Model Used: MobileNet Architecture.
+
+Training Accuracy of 99.00% and Validation Accuracy of 99.00%.
+
+***************************************************************
+Kidney Cancer Detection using Deep Learning Models  (Structure dataset)
+
+Algorithm / Model Used: Artificial Neural Network (ANN).
+
+Training Accuracy: 90% and Validation Accuracy of 97%.
